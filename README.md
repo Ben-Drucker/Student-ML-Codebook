@@ -16,8 +16,6 @@
       * `TH_4.png`
       * `TH_7.png`
     * `Instructional/` — images to be used in the lab instructions
-  * `instructions/`
-    * `instructions.pdf` — instructions slides
   * `.gitignore` — specifies which types of files to ignore
   * `README.md` — this file
   * `requirements.txt` — not necessary to look at, but contains the dependencies for this project. If people want to use this code on a non-Colab system, you must manually install required packages with the command `pip install -r requirements.txt` (after `cd`'ing into the repository folder)
