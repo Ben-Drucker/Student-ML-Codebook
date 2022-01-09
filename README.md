@@ -1,4 +1,4 @@
-## Welcome to the Westtown ML INSTRUCTOR Codebook!
+## Welcome to the Westtown ML STUDENT Codebook!
 ### The following is the file structure of this repository
 * [root]
   * `code/`
